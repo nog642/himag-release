@@ -34,15 +34,20 @@ into a graph (**Sim-2 Graph**). The original spatial data is available in
 `dist(a, b)/max_dist` as the edge weight, as explained in our paper. The graph
 is available in `./datsets/sim2/graph/`.
 
-See also the licenses at `./datasets/marketing/LICENSE` and `./datasets/topic_model/LICENSE`.
+See also the licenses at `./datasets/marketing/LICENSE` and
+`./datasets/topic_model/LICENSE`.
 
 
 Gene DIVER 3.0
 ==============
 
-TODO: add stuff
+Gene DIVER 3.0 is extended from Gene DIVER 2.0. Both are written in Java.
 
-Gene DIVER 3.0 blah blah \[TODO: Add Java version\]
+Gene DIVER 3.0 is located in `./GeneDIVER3.0`, where both the source code and
+compiled JAR are available.
+
+There is also a convenience script `./GeneDIVER3.0/genediver64.sh` to start it
+on UNIX if `jdk1.7.0_79` is located in `$HOME`.
 
 See also the license at `./GeneDIVER3.0/LICENSE`.
 
