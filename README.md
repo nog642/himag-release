@@ -1,5 +1,6 @@
 HIMAG Dataset & Code Release
 
+
 Datasets
 ========
 
@@ -138,3 +139,9 @@ tools for dealing with this data are in `./python/labeling/`.
 
 
 See also the license at `./python/LICENSE`.
+
+
+Discussion
+==========
+
+See `gd3_tools.pdf` for a discussion of clustering results on the datasets.
